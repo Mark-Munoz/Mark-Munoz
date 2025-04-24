@@ -8,9 +8,12 @@
 
 
 ### Skills 🛠️
-- **Programming Languages**:&nbsp;                      Python, PowerShell 
-- **Data Architecture**:  &nbsp;&nbsp;                  MySQL, Azure Data Studio, MS Access 
-- **Operating Systems**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Windows, Linux, MacOS 
+
+| Category             | Skills                                             |
+|----------------------|----------------------------------------------------|
+| **Programming**       | Python, PowerShell                                |
+| **Data Architecture** | MySQL, Azure Data Studio, MS Access               |
+| **Operating Systems** | Microsoft Windows, Linux, MacOS                   |
 
 ### Education 🎓
 - Bachelor of Science in Computer Information Systems @ Lehman College CUNY (2025)

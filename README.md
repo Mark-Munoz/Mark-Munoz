@@ -11,7 +11,7 @@
 
 | Category             | Skills                                             |
 |----------------------|----------------------------------------------------|
-| **Programming**       | Python, PowerShell                                |
+| **Programming**       | Python, PowerShell, PHP, HTML, CSS                |
 | **Data Architecture** | MySQL, Azure Data Studio, MS Access               |
 | **Operating Systems** | Microsoft Windows, Linux, MacOS                   |
 

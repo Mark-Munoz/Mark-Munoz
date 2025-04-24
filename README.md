@@ -16,22 +16,21 @@
 - Bachelor of Science @ Lehman College CUNY (2025)
 
 ### Projects 🐾
-- [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
-- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
-- [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
-- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+- [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Description of Project 
+- [Coming Soon](https://github.com/Mark-Munoz/QaNER) - Description of Project 
+- [Coming Soon](https://github.com/Mark-Munoz/rllib) - Description of Project 
+- [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Description of Project 
 
 ### Certifications 📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
 ### Achievements 🏆
-- Key contributor to [GigaChat](https://habr.com/ru/companies/sberbank/articles/730108/): Russian [most advanced](https://habr.com/ru/companies/sberdevices/articles/790470/) LLM
+- <a href="https://www.credly.com/badges/4c5d1882-21af-4c0c-b4d5-c7d43daf99e0/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/size/200x200/images/48dc1b13-ed2d-4c24-9024-7c8b90f2b735/meta-front-end-developer.png" alt="Meta Front-End Developer Badge" width="120"/>
+</a>
+
 - 500+ stars on GitHub and [10 packages](https://pypi.org/user/dayyass/) in **PyPI** with [38k+](https://pepy.tech) downloads
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Open Data Science **Best Contributor 2020**

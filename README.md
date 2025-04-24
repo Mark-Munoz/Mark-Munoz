@@ -13,7 +13,7 @@
 - **Operating Systems**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Windows, Linux, MacOS 
 
 ### Education 🎓
-- Bachelor of Science @ Lehman College CUNY (2025)
+- Bachelor of Science in Computer Information Systems @ Lehman College CUNY (2025)
 
 ### Projects 🐾
 - [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Description of Project 

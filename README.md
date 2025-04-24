@@ -1,23 +1,19 @@
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Mark-Munoz&color=36b812)
+![Followers](https://img.shields.io/github/followers/Mark-Munoz?style=social)
+![Stars](https://img.shields.io/github/stars/Mark-Munoz?style=social)
 
 ### Hi, my name is Mark 👋 and I ❤️ IT Operations and Backend Systems
 
 **Field of interests**: System & Network Administration, CloudOps, Site Reliability Engineering
 
-<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
-
 
 ### Skills 🛠️
-- **Programming Languages**:&nbsp;                      Python, SQL
-- **Data Architecture**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Operating Systems**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+- **Programming Languages**:&nbsp;                      Python, PowerShell 
+- **Data Architecture**:  &nbsp;&nbsp;                  MySQL, Azure Data Studio, MS Access 
+- **Operating Systems**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Windows, Linux, MacOS 
 
 ### Education 🎓
-- [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
-- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
+- Bachelor of Science @ Lehman College CUNY (2025)
 
 ### Projects 🐾
 - [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
@@ -28,26 +24,11 @@
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
 
-### Public talks 🗣
-- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
-- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
-- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
-- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
-
 ### Certifications 📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-
-<!--- ### Conference participation 📈
-- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
-
-### Hackathon participation 💻
-- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
-- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
 
 ### Achievements 🏆
 - Key contributor to [GigaChat](https://habr.com/ru/companies/sberbank/articles/730108/): Russian [most advanced](https://habr.com/ru/companies/sberdevices/articles/790470/) LLM
@@ -56,6 +37,6 @@
 - Open Data Science **Best Contributor 2020**
 
 ### GitHub Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Munoz&show_icons=true&theme=radical)
 
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
+More information in my [LinkedIn](https://www.linkedin.com/in/mark-munoz-b18a981a9/) 🚀

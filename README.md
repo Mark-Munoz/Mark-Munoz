@@ -27,10 +27,13 @@
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
 
 ### Achievements 🏆
-- [![Meta Front-End Developer Badge](Meta-Badge.png)](https://www.credly.com/badges/4c5d1882-21af-4c0c-b4d5-c7d43daf99e0)
 - 500+ stars on GitHub and [10 packages](https://pypi.org/user/dayyass/) in **PyPI** with [38k+](https://pepy.tech) downloads
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Open Data Science **Best Contributor 2020**
+
+### Badges 🏅 
+- [![Meta Front-End Developer Badge](Meta%20Badge.png)](https://www.credly.com/badges/4c5d1882-21af-4c0c-b4d5-c7d43daf99e0)
+
 
 ### GitHub Stats ⭐
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Munoz&show_icons=true&theme=radical)

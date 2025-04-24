@@ -2,7 +2,7 @@
 ![Followers](https://img.shields.io/github/followers/Mark-Munoz?style=social)
 ![Stars](https://img.shields.io/github/stars/Mark-Munoz?style=social)
 
-### Hi, my name is Mark 👋 and I ❤️ IT Operations and Backend Systems
+### Hi, my name is Mark 👋 and I ❤️ IT Operations & Backend Systems
 
 **Field of interests**: System & Network Administration, Cloud Computing, DevOps, Site Reliability Engineering
 

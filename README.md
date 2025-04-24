@@ -22,14 +22,14 @@
 - [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Description of Project 
 
 ### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
+- [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
+- [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
 
 ### Achievements 🏆
-- 500+ stars on GitHub and [10 packages](https://pypi.org/user/dayyass/) in **PyPI** with [38k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
+- Coming Soon
+- Coming Soon
+- Coming Soon
 
 ### Badges 🏅
 

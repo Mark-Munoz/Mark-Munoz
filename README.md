@@ -4,7 +4,7 @@
 
 ### Hi, my name is Mark 👋 and I ❤️ IT Operations and Backend Systems
 
-**Field of interests**: System & Network Administration, CloudOps, Site Reliability Engineering
+**Field of interests**: System & Network Administration, Cloud Computing, DevOps, Site Reliability Engineering
 
 
 ### Skills 🛠️

@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/followers/dayyass?style=social)<br>
 ![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 
-### Hi, my name is Mark 👋 and I ❤️ IT Operations and Support
+### Hi, my name is Mark 👋 and I ❤️ IT Operations and Backend Systems
 
 **Field of interests**: System & Network Administration, CloudOps, Site Reliability Engineering
 
@@ -10,9 +10,9 @@
 
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
+- **Programming Languages**:&nbsp;                      Python, SQL
+- **Data Architecture**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
+- **Operating Systems**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Education 🎓

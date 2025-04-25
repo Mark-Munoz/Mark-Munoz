@@ -25,7 +25,7 @@
 - [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Implemeted a help desk ticketing system in virtual machine 
 
 ### Certifications 📜
-- [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
+- [Cerified PHP Developer (Professional Level)](https://verify.w3schools.com/1OTUY63OFV) @ W3 Schools 
 - [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
 - [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
 

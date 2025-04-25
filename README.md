@@ -19,10 +19,10 @@
 - Bachelor of Science in Computer Information Systems @ Lehman College CUNY (2025)
 
 ### Projects 🐾
-- [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Description of Project 
-- [Coming Soon](https://github.com/Mark-Munoz/QaNER) - Description of Project 
-- [Coming Soon](https://github.com/Mark-Munoz/rllib) - Description of Project 
-- [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Description of Project 
+- [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Implemented Active Directory (On-Premises) in Azure 
+- [Coming Soon](https://github.com/Mark-Munoz/QaNER) - Explored Network Concepts, Protocols, and VPN 
+- [Coming Soon](https://github.com/Mark-Munoz/rllib) - Developed server web based application with database backend 
+- [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Implemeted a help desk ticketing system in virtual machine 
 
 ### Certifications 📜
 - [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 

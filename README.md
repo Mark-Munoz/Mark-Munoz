@@ -22,7 +22,7 @@
 - [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Implemented Active Directory (On-Premises) in Azure 
 - [Coming Soon](https://github.com/Mark-Munoz/QaNER) - Explored Network Concepts, Protocols, and VPN 
 - [Coming Soon](https://github.com/Mark-Munoz/rllib) - Developed server web based application with database backend 
-- [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Implemeted a help desk ticketing system in virtual machine 
+- [Coming Soon](https://github.com/Mark-Munoz/muse-as-service) - Analyzed customer churn data for telecomunications firm  
 
 ### Certifications 📜
 - [Cerified PHP Developer (Professional Level)](https://verify.w3schools.com/1OTUY63OFV) @ W3 Schools 

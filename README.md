@@ -30,9 +30,8 @@
 - [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
 
 ### Achievements 🏆
-- Coming Soon
-- Coming Soon
-- Coming Soon
+- Awarded Dean's List 2022
+- Departmental recognition for exceptional work in CIS 211
 
 ### Badges 🏅
 

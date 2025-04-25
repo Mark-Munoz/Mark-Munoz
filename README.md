@@ -26,7 +26,7 @@
 
 ### Certifications 📜
 - [Cerified PHP Developer (Professional Level)](https://verify.w3schools.com/1OTUY63OFV) @ W3 Schools 
-- [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
+- [Learn Python & Ethical Hacking from scratch](https://www.udemy.com/certificate/UC-64e4443f-a44c-439f-bdf5-3a9448f67b30/) @ Z Security 
 - [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
 
 ### Achievements 🏆

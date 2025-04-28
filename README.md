@@ -20,7 +20,7 @@
 
 ### Projects 🐾
 - [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Implemented Active Directory (On-Premises) in Azure 
-- [Coming Soon](https://github.com/Mark-Munoz/QaNER) - Explored Network Concepts, Protocols, and VPN 
+- [Coming Soon](https://github.com/Mark-Munoz/Azure-Network-Protocols) - Explored Network Concepts, Protocols, and VPN 
 - [Coming Soon](https://github.com/Mark-Munoz/rllib) - Developed server web based application with database backend 
 
 ### Certifications 📜

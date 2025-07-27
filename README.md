@@ -19,14 +19,11 @@
 - Bachelor of Science in Computer Information Systems @ Lehman College CUNY (2025)
 
 ### Projects 🐾
-- [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - Implemented Active Directory (On-Premises) in Azure 
-- [Coming Soon](https://github.com/Mark-Munoz/Azure-Network-Protocols) - Explored Network Concepts, Protocols, and VPN 
-- [Coming Soon](https://github.com/Mark-Munoz/rllib) - Developed server web based application with database backend 
+- [Coming Soon](https://github.com/Mark-Munoz/muse_tf2pt) - telecom Churn Analysis and Report 
+- [Coming Soon](https://github.com/Mark-Munoz/Azure-Network-Protocols) - Portfolio Theory, Analysis, and Backtesting Algorithm 
 
 ### Certifications 📜
-- [Cerified PHP Developer (Professional Level)](https://verify.w3schools.com/1OTUY63OFV) @ W3 Schools 
-- [Learn Python & Ethical Hacking from scratch](https://www.udemy.com/certificate/UC-64e4443f-a44c-439f-bdf5-3a9448f67b30/) @ Z Security 
-- [Coming Soon](https://www.somewebsitesdf.com) @ Some Site 
+- [Professional Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/VVZF4595RPQU) @ Coursera 
 
 ### Achievements 🏆
 - Awarded Dean's List 2022

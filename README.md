@@ -11,7 +11,7 @@
 
 | Category             | Skills                                             |
 |----------------------|----------------------------------------------------|
-| **Programming & BI Tools**       | Python, SQL, Tableau,                  |
+| **Programming & BI Tools**       | Python, SQL, Tableau, Power BI         |
 | **Data Architecture** | MySQL, Azure Data Studio, MS Access               |
 | **Operating Systems** | Microsoft Windows, Linux, MacOS                   |
 

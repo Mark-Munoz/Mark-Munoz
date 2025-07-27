@@ -2,16 +2,16 @@
 ![Followers](https://img.shields.io/github/followers/Mark-Munoz?style=social)
 ![Stars](https://img.shields.io/github/stars/Mark-Munoz?style=social)
 
-### Hi, my name is Mark 👋 and I ❤️ IT Operations & Backend Systems
+### Hi, my name is Mark 👋 and I ❤️ Data Analytics & Business Intelligence
 
-**Field of interests**: System & Network Administration, Cloud Computing, DevOps, Site Reliability Engineering
+**Field of interests**: Data Analyst, Data Science, Business Intelligence Analyst, Data Engineer
 
 
 ### Skills 🛠️
 
 | Category             | Skills                                             |
 |----------------------|----------------------------------------------------|
-| **Programming**       | Python, PowerShell, PHP, HTML, CSS                |
+| **Programming & BI Tools**       | Python, SQL, Tableau,                  |
 | **Data Architecture** | MySQL, Azure Data Studio, MS Access               |
 | **Operating Systems** | Microsoft Windows, Linux, MacOS                   |
 

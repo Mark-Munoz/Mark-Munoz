@@ -19,7 +19,7 @@
 - Bachelor of Science in Computer Information Systems @ Lehman College CUNY (2025)
 
 ### Projects 🐾
-- [Coming Soon](https://github.com/Mark-Munoz/muse_tf2p) - telecom Churn Analysis and Visulization 
+<!-- - [Coming Soon](https://github.com/Mark-Munoz/muse_tf2p) - telecom Churn Analysis and Visulization --> 
 - [Algorithmic Trading](https://github.com/Mark-Munoz/Algorithmic-Trading) - Portfolio Theory, Analysis, and Backtesting Algorithm 
 
 ### Certifications 📜
